@@ -74,3 +74,7 @@ streamlit run <app name>.py
 https://docusaurus.io/docs#fast-track
 https://nodejs.org/en/download/
 https://www.youtube.com/watch?v=I-hYKNgaMmE&t=4s
+
+Video | Useful Talks and understanding of Docusaurus
+---|---
+<a href="https://youtu.be/Yhyx7otSksg"><img src="http://img.youtube.com/vi/Yhyx7otSksg/0.jpg" alt="Build 12 Data Science Apps with Python and Streamlit - Full Course" title="Docusaurus: Documentation Made Easy" width="400" /></a> | [Build 12 Data Science Apps with Python and Streamlit - Full Course](https://youtu.be/Yhyx7otSksg)
