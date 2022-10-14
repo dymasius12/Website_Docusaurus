@@ -66,7 +66,6 @@ streamlit run <app name>.py
 
 ### More references:
 
-<<<<<<< HEAD
 - markdown cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - how to use yfinance data https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
 - Github repo of Data Professor https://github.com/dataprofessor/streamlit_freecodecamp
