@@ -14,33 +14,33 @@ Video | Title
 🔗 And Medium blog posts for more data science tutorials: https://data-professor.medium.com/
 
 ⭐️ Course Contents ⭐️
-00:00 - What you will learn
-00:40 - Overview Docusaurus
-02:05 - What can I use Docusaurus for?
-02:25 - Why Docusaurus?
-06:00 - Install Docusaurus
-10:00 - Deployment what you need to know
-12:00 - Start Docusaurus locally
-13:00 - Sync with GitHub repository
-17:50 - How to deploy?
-18:42 - Deploy to Netlify
-20:50 - Change domain name
-21:40 - Add a custom domain
-22:10 - Edit your Docusaurus website
-24:45 - Edit blogs
-26:00 - Edit documentation
-28:45 - Change primary color
-31:25 - Change landing page
-39:00 - Change images
-39:20 - Free illustrations from unDraw
-42:20 - Change favicon
-47:30 - Docusaurus config file
-48:40 - Change website title
-53:30 - Navigation bar
-56:30 - Footer
-59:05 - Add new documentation page
-01:07:00 - Add a new blog page
-01:11:36 - Build and re-deploy to Netlify
+- 00:00 - What you will learn
+- 00:40 - Overview Docusaurus
+- 02:05 - What can I use Docusaurus for?
+- 02:25 - Why Docusaurus?
+- 06:00 - Install Docusaurus
+- 10:00 - Deployment what you need to know
+- 12:00 - Start Docusaurus locally
+- 13:00 - Sync with GitHub repository
+- 17:50 - How to deploy?
+- 18:42 - Deploy to Netlify
+- 20:50 - Change domain name
+- 21:40 - Add a custom domain
+- 22:10 - Edit your Docusaurus website
+- 24:45 - Edit blogs
+- 26:00 - Edit documentation
+- 28:45 - Change primary color
+- 31:25 - Change landing page
+- 39:00 - Change images
+- 39:20 - Free illustrations from unDraw
+- 42:20 - Change favicon
+- 47:30 - Docusaurus config file
+- 48:40 - Change website title
+- 53:30 - Navigation bar
+- 56:30 - Footer
+- 59:05 - Add new documentation page
+- 01:07:00 - Add a new blog page
+- 01:11:36 - Build and re-deploy to Netlify
 
 
 ⭐️ Code ⭐️
