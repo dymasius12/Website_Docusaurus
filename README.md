@@ -4,6 +4,10 @@
 
 <p align="justify"> Hi this is code for making a Reach.Js based website using Docusaurus. This is the code for the tutorial by Federico Tartini. the tutorial can be seen at https://www.youtube.com/watch?v=I-hYKNgaMmE&t=4s
 
+Video | Title
+---|---
+<a href="https://youtu.be/I-hYKNgaMmE"><img src="http://img.youtube.com/vi/I-hYKNgaMmE/0.jpg" alt="Build 12 Data Science Apps with Python and Streamlit - Full Course" title="Build and deploy a documentation website using Docusaurus 2" width="400" /></a> | [Build 12 Data Science Apps with Python and Streamlit - Full Course](https://youtu.be/I-hYKNgaMmE)
+
 ### What you’ll learn:
 
   ✏️ Course developed by Chanin Nantasenamat (aka Data Professor). Check out his YouTube channel for more data science tutorials: http://youtube.com/dataprofessor
@@ -80,7 +84,3 @@ streamlit run <app name>.py
 https://docusaurus.io/docs#fast-track
 https://nodejs.org/en/download/
 https://www.youtube.com/watch?v=I-hYKNgaMmE&t=4s
-           
-Video | Title
----|---
-<a href="https://youtu.be/I-hYKNgaMmE"><img src="http://img.youtube.com/vi/I-hYKNgaMmE/0.jpg" alt="Build 12 Data Science Apps with Python and Streamlit - Full Course" title="Build and deploy a documentation website using Docusaurus 2" width="400" /></a> | [Build 12 Data Science Apps with Python and Streamlit - Full Course](https://youtu.be/I-hYKNgaMmE)
