@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'I am a programmer',
+    Svg: require('@site/static/img/undraw_programming.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I was a software engineer at Kooprime.com or KOOPrime Pte Ltd and was a Data Analyst at Analog Devices Inc. I won 2nd place for UCL Data Science Hackathon 2020+1.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'I am an entrepreneur',
+    Svg: require('@site/static/img/undraw_business_plan.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I have experiences as a founder and CEO of my humble businesses. I won TOP 15 out of 655 Team in Shopee Business Case Competition 2021. My mission is to innovate and empower people through technology and social entrepreneurship.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'I am an art enthusiast myself',
+    Svg: require('@site/static/img/undraw_sculpting.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I enjoy artistic things. I love music. I am a pianist at local Singapore-Indonesian Church. I also enjoy to integrate technology to art. I won 1st runner-up for NUS Art Competition 2021.
       </>
     ),
   },
