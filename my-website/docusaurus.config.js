@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Dymasius.com',
-  tagline: 'Welcome! I am an ex-Data Analyst, ex-Software Engineer, Learning Data Science.',
+  tagline: 'Welcome! I am an ex-Data Analyst, ex-Software Engineer, Learning Data Science, currently a Data Engineer at Tapeout Services for Technology Development Dept.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
